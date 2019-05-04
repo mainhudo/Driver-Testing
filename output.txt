@@ -1,0 +1,37 @@
+Test 
+1)1*5= 
+MIN_DIFFICULTY
+point 1
+
+
+
+2)6*8= 
+MID_DIFFICULTY
+point 2
+
+
+
+3)14*75= 
+a.216
+b.3
+c.43
+d.5 
+MAX_DIFFICULTY
+point 3
+4)______ was the 16th US President.
+MAX_DIFFICULTY
+point 2
+5)___Abraham Lincoln___ was the 16th US President.
+MAX_DIFFICULTY
+point 3
+
+Total Point: 
+11
+Answer Key: 
+1.2
+2.b
+3.c
+4.ok this is kinda funny
+5.ok this is not funny
+
+
